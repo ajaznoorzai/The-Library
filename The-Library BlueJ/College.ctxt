@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=College
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ College\ here.\r\n\r\n\ @author\ (Aj)\r\n\ @version\ (10/12/2021)\r\n
+comment1.params=numStudents\ TextBooks
+comment1.target=College(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ College\r\n\ @param\ numStudents\ -\ the\ number\ of\ Students\ enrolled\ at\ the\ college\r\n\ @param\ TextBooks\ -\ the\ number\ of\ TextBooks\ in\ the\ library,\ respectively\r\n\ \r\n\ \r\n
+comment2.params=
+comment2.target=void\ describe()
+comment2.text=\r\n\ prints\ out\ a\ simple\ description\ of\ the\ state\ of\ the\ College\r\n\ such\ as\ students\ in\ college\ and\ number\ of\ books\ on\ shelf\ and\ how\ many\ cards\ its\ issued\ \r\n
+comment3.params=
+comment3.target=void\ nextStep()
+comment3.text=\r\n\r\nInternal\ use\ by\ this\ class\ only\ \r\nif\ there\ are\ no\ students\ method\ just\ prints\ out\ a\ message\ such\ as\ "Everything\ has\ gone\ quiet.",\ Otherwise\ a\ Student\ should\ be\ selected\ at\ random\ from\ those\ still\ at\ the\ College.\ \ \r\n\ \r\n
+comment4.params=nSteps
+comment4.target=void\ runCollege(int)
+comment4.text=\r\n\ unCollege\ the\ amount\ of\ time\ step\ it\ takes\ for\ college\ run\ \r\n\ @param\ nSteps\ amount\ of\ steps\ a\ college\ is\ run\ for\ \ \r\n\ \r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\r\n\ \r\n\ \r\n\ @param\ args\ used\ for\ number\ of\ students\ number\ of\ steps\ and\ number\ of\ books\ \ \r\n
+numComments=6

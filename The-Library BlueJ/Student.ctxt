@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Student\ here.\r\n\r\n\ @author\ (Aj)\r\n\ @version\ (10/12/2021)\r\n
+comment1.params=name\ library
+comment1.target=Student(java.lang.String,\ Library)
+comment1.text=\r\n\ \ \r\n\ @param\ name\ representing\ the\ Student's\ name\r\n\ @param\ library\ representing\ the\ library\ that\ the\ Student\ joins\r\n\ \r\n
+comment2.params=
+comment2.target=boolean\ finishedStudies()
+comment2.text=\r\n\ @return\ true\ or\ false\ \r\n\ return\ true\ if\ the\ student\ does\ not\ have\ a\ TextBook\ to\ read,\ but\ can't\ borrow\ one\ because\ the\ LibraryCard\ has\ expired.otherwise\ returns\ false\r\n\ \r\n
+comment3.params=
+comment3.target=void\ study()
+comment3.text=\r\n\ Causes\ the\ student\ to\ study\r\n\ if\ the\ Student\ does\ not\ currently\ have\ a\ TextBook\ then\ the\ student\ tries\ to\ borrow\ one\ from\ the\ library\r\n\ if\ the\ student\ does\ have\ a\ book\ and\ it\ is\ not\ finished,\ then\ the\ student\ reads\ one\ chapter\ of\ the\ book\r\n\ \r\n
+comment4.params=
+comment4.target=void\ describe()
+comment4.text=\r\n\ if\ whether\ or\ not\ they\ have\ a\ TextBook\ and\ if\ they\ do\ have\ book,\ whether\ or\ not\ the\ book\ is\ finished\ or\ they\ are\ still\ reading\ it\r\n\ \r\n
+numComments=5
